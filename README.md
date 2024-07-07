@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**Full Stack Web Developer**
+
+**🚀 Passionate about building exceptional web applications**
+
+### 🛠️ Tech Stack
+
+* **Backend:** Go, C#, Python (Django/Flask), Firebase
+* **Frontend:** JavaScript (React, Angular), Flutter
+* **Database:** PostgreSQL, MySQL, MongoDB
+* **DevOps:** Docker, AWS
+
